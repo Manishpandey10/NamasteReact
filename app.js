@@ -37,4 +37,5 @@ we can simply do this,
 (params)=>{arguments}
 unlike functions arrow functions do not have it's this keyword, we can use this keyword but that this will be lexically bound
 i.e this will take context of the lexical scope in which the function is defined , it will not take the context of the function ()=>{} arrow fn do not have its own (this). 
+arrow fn cannot be used as constructor/methods
 */

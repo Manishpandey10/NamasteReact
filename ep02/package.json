@@ -1,0 +1,35 @@
+{
+  "name": "ep02",
+  "version": "1.0.0",
+  "description": "igniting our app |Manish ",
+
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manishpandey10/NamasteReact.git#main"
+  },
+  "keywords": [
+    "keyword",
+    "this",
+    "and",
+    "that"
+  ],
+  "author": "Manish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manishpandey10/NamasteReact/issues"
+  },
+  "homepage": "https://github.com/Manishpandey10/NamasteReact/tree/main#readme",
+  "devDependencies": {
+    "parcel": "^2.10.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserlist":[
+    "last 2 version"  ]
+}

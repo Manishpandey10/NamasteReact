@@ -4,6 +4,7 @@
   "description": "igniting our app |Manish ",
 
   "scripts": {
+
     "test": "jest"
   },
   "repository": {
